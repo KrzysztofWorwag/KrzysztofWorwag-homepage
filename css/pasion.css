@@ -1,0 +1,16 @@
+.pasion {
+    margin: 2%;
+    color: black;
+    background-color: beige;
+    font-family: 'Lato', sans-serif;
+    border: 3px solid rgb(15, 12, 206);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0px #041BEA;
+    text-shadow: 1px 2px 5px #888;
+    padding: 10px;
+}
+
+.pasion--pb {
+    margin: 2%;
+    padding: 20px;
+}
